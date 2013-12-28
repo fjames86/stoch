@@ -1,0 +1,4 @@
+
+obj-m += stoch.o
+
+
